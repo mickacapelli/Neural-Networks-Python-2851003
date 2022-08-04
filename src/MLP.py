@@ -148,3 +148,4 @@ print("1 1 = {0:.10f}".format(mlp.run([1, 1])[0]))
 
 
 print("Hello World!")
+print("COUCOU AMINDANE")
